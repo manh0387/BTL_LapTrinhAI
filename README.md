@@ -20,8 +20,18 @@ Dữ liệu được lấy từ <a href='https://www.kaggle.com/datasets/georges
 git clone https://github.com/manh0387/BTL_LapTrinhAI.git
 ```
 hoặc tải về trực tiếp repository
+
+**Tạo** môi trường ảo với thư viện `virtualenv`
 ```
-virtualenv -p python3 my_env //tạo môi trường ảo
+virtualenv -p python3 my_env
+```
+Nếu chưa cài đặt thư viện `virtualenv` có thể dùng pip để **cài đặt**
+```
+pip install virtualenv
+```
+**Activate** môi trường ảo
+```
+source my_env/bin/activate
 ```
 Cài đặt các thư viện cần dùng
 ```
