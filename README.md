@@ -27,10 +27,8 @@ Cài đặt các thư viện cần dùng
 ```
 pip install -r requirements. txt
 ```
-## Giới thiệu về nhóm và lời cảm ơn
+## Giới thiệu về nhóm
 **Nhóm 10** bao gồm 03 thành viên:
 - Nguyễn Đông Mạnh
 - Lê Hải Yến
 - Đào Minh Quân
-
-Thay mặt nhóm xin chân thành cảm ơn thầy Nguyễn Văn Thiệu đã giảng dạy và hướng dẫn trong quá trình hoàn thành bài tập lớn.
